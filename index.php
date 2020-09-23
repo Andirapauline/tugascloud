@@ -30,14 +30,35 @@
   padding-bottom: 70px;
 }
 </style>
+  /* Bagian Atas */
+  <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Andira Pauline</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Cerita</a></li>
+        <li><a href="#">Materi Tugas</a></li>
+        <li><a href="#">Tentang Saya</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
   <div class="container-fluid bg-1 text-center">
   <h3>Annyeonghaseyo Yeorobun</h3>
-  <img src="WFH.jpg" alt="WFH" width="302" height="308">
-  <h3>I'm an adventurer</h3>
+  <img src="WFH.jpg" alt="WFH" width="295" height="320">
+  <h3>Andira Pauline</h3>
 </div>
   
   <div class="container-fluid bg-2 text-center">
-  <h3>SUASANA WORK FROM HOME</h3>
+  <h3>Suasana Work From Home Andira</h3>
   <p>Assalamualaikum warahmatullahi wabarakatuh
 ini tulisan saya mengenai suasana work from home saya dirumah. WFH dimulai sejak awal masuk disemester 4, tepat 2 minggu
 setelah kuliah tatap muka dilakukan. seperti yang kita ketahui juga kita melakukan WFH ini karena Indonesia tengah dilanda
@@ -48,20 +69,20 @@ rumah dan kuliah. tetapi saya bersyukur dikelilingi teman-teman yang baik, yang 
 dari materi yang saya tidak mengerti.</p>
 </div>
   
-  <div class="container-fluid bg-3 text-center">
-  <h3>FASILITAS UIN SYARIF HIDAYATULLAH JAKARTA</h3>
+ <div class="container-fluid bg-3 text-center">    
+  <h3>Fasilitas UIN Syarif Hidayatullah Jakarta</h3><br>
   <div class="row">
     <div class="col-sm-4">
-      <p>Lorem ipsum..</p>
-      <img src=" " alt=" ">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <img src="2d86fbfed0c240e7d9e3f91d7df5ace5.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
-    <div class="col-sm-4">
-      <p>Lorem ipsum..</p>
-      <img src=" " alt=" ">
+    <div class="col-sm-4"> 
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <img src=" " class="img-responsive" style="width:100%" alt=" ">
     </div>
-    <div class="col-sm-4">
-      <p>Lorem ipsum..</p>
-      <img src=" " alt=" ">
+    <div class="col-sm-4"> 
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <img src=" " class="img-responsive" style="width:100%" alt=" ">
     </div>
   </div>
 </div>
