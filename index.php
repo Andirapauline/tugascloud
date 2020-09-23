@@ -22,6 +22,20 @@
     color: #000000; /* Black*/
   }
   </style>
+  <style>
+    .bg-3 {
+    background-color: #E6E6FA; /* Lavender */
+    color: #000000; /* Black*/
+  }
+  </style>
+  
+   <style>
+.bg-4 {
+  background-color:  #B0C4DE ; /* Light Steel Blue */
+  color: #000000; /* Black*/
+}
+</style>
+
 </head>
 <body>
 <style>
@@ -77,7 +91,9 @@
 </div>
   
   <div class="container-fluid bg-2 text-center">
+    <br>
   <h3>Suasana Work From Home</h3>
+    </br>
   <p>Assalamualaikum warahmatullahi wabarakatuh
 ini tulisan saya mengenai suasana work from home saya dirumah. WFH dimulai sejak awal masuk disemester 4, tepat 2 minggu
 setelah kuliah tatap muka dilakukan. seperti yang kita ketahui juga kita melakukan WFH ini karena Indonesia tengah dilanda
@@ -106,13 +122,7 @@ dari materi yang saya tidak mengerti.</p>
   </div>
 </div>
   
-  <style>
-.bg-4 {
-  background-color:  #B0C4DE ;
-  color: #000000;
-}
-</style>
-
+ 
 <footer class="container-fluid bg-4 text-center">
   <p>My Social Media</p>
   <br>
