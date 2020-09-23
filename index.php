@@ -30,7 +30,20 @@
   padding-bottom: 70px;
 }
 </style>
-  /* Bagian Atas */
+  
+  .navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+  color: #1abc9c !important;
+}
   <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
@@ -53,7 +66,7 @@
   
   <div class="container-fluid bg-1 text-center">
   <h3>Annyeonghaseyo Yeorobun</h3>
-  <img src="WFH.jpg" alt="WFH" width="295" height="320">
+  <img src="WFH.jpg" class="img-rounded" alt="WFH" width="220" height="350">
   <h3>Andira Pauline</h3>
 </div>
   
