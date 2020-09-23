@@ -12,12 +12,12 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
   body {
-  font: 15px "Montserrat", sans-serif;
-  line-height: 1.2;
+  font: 14px "Montserrat", sans-serif;
+  line-height: 1.0;
   color: #f5f6f7;
 }
 
-p {font-size: 15px;}
+p {font-size: 14px;}
   </style>
   
   <style>
