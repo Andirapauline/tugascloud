@@ -40,10 +40,10 @@
   font-size: 12px;
   letter-spacing: 5px;
 }
-  </style>
 .navbar-nav li a:hover {
   color: #1abc9c !important;
 }
+    </style>
   <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
