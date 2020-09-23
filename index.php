@@ -43,7 +43,7 @@
      </style>
   <style>
 .navbar-nav li a:hover {
-  color: #1abc9c !important;
+  color: #B0C4DE !important;
 }
   </style>
   <nav class="navbar navbar-default">
