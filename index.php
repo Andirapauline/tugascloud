@@ -12,13 +12,13 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
   body {
-  font: 20px "Montserrat", sans-serif;
-  line-height: 1.8;
+  font: 12px "Montserrat", sans-serif;
+  line-height: 1.5;
   color: #f5f6f7;
 }
-</style>
-p {font-size: 16px;}
-  
+
+p {font-size: 12px;}
+  </style>
   <style>
   .bg-1 {
     background-color: #B0C4DE ;  /* Light Steel Blue */
