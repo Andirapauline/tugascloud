@@ -13,13 +13,13 @@
   <style>
   .bg-1 {
     background-color: #B0C4DE ;  /* Light Steel Blue */
-    color: #ADD8E6; /* Lavender */
+    color: #000000; /* Black */
   }
   </style>
   <style>
   .bg-2 {
-    background-color: #B0C4DE ; /* Light Steel Blue */
-    color: #ffffff;
+    background-color: #E6E6FA ; /* Lavender */
+    color: #000000; /* Black*/
   }
   </style>
 </head>
@@ -32,7 +32,7 @@
 </style>
   <div class="container-fluid bg-1 text-center">
   <h3>Annyeonghaseyo Yeorobun</h3>
-  <img src="WFH.jpg" alt="WFH" width="304" height="300">
+  <img src="WFH.jpg" alt="WFH" width="302" height="308">
   <h3>I'm an adventurer</h3>
 </div>
   
@@ -46,6 +46,24 @@ dan kuota internet yang ekstra. sejak WFH pun mengerjakan tugas ataupun diskusi 
 WFH jujur saja materi yang disampaikan kurang bisa dicerna otak karena dirumah pasti pikiran akan terbagi antara pekerjaan 
 rumah dan kuliah. tetapi saya bersyukur dikelilingi teman-teman yang baik, yang mau membantu sampai mengajari ulang bagian 
 dari materi yang saya tidak mengerti.</p>
+</div>
+  
+  <div class="container-fluid bg-3 text-center">
+  <h3>FASILITAS UIN SYARIF HIDAYATULLAH JAKARTA</h3>
+  <div class="row">
+    <div class="col-sm-4">
+      <p>Lorem ipsum..</p>
+      <img src=" " alt=" ">
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum..</p>
+      <img src=" " alt=" ">
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum..</p>
+      <img src=" " alt=" ">
+    </div>
+  </div>
 </div>
   
 </body>
