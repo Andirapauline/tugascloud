@@ -30,7 +30,7 @@
   padding-bottom: 70px;
 }
 </style>
-  
+  <style>
   .navbar {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -40,7 +40,7 @@
   font-size: 12px;
   letter-spacing: 5px;
 }
-
+  </style>
 .navbar-nav li a:hover {
   color: #1abc9c !important;
 }
