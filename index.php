@@ -40,10 +40,12 @@
   font-size: 12px;
   letter-spacing: 5px;
 }
+     </style>
+  <style>
 .navbar-nav li a:hover {
   color: #1abc9c !important;
 }
-    </style>
+  </style>
   <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
@@ -100,5 +102,15 @@ dari materi yang saya tidak mengerti.</p>
   </div>
 </div>
   
+  <style>
+.bg-4 {
+  background-color: #2f2f2f;
+  color: #ffffff;
+}
+</style>
+
+<footer class="container-fluid bg-4 text-center">
+  <p>Sosial Media<a>Instagram Andira Pauline</a></p>
+</footer>
 </body>
 </html>
