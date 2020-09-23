@@ -83,7 +83,7 @@ p {font-size: 15px;}
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Cerita</a></li>
-        <li><a href="#">Materi Tugas</a></li>
+        <li><a href="#">Materi & Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
