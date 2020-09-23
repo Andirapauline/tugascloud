@@ -16,10 +16,12 @@
     color: #ADD8E6; /* Lavender */
   }
   </style>
+  <style>
   .bg-2 {
     background-color: #B0C4DE ; /* Light Steel Blue */
     color: #ffffff;
   }
+  </style>
 </head>
 <body>
 <style>
@@ -30,7 +32,7 @@
 </style>
   <div class="container-fluid bg-1 text-center">
   <h3>Annyeonghaseyo Yeorobun</h3>
-  <img src="WFH.jpg" alt="WFH" width="304" height="236">
+  <img src="WFH.jpg" alt="WFH" width="304" height="300">
   <h3>I'm an adventurer</h3>
 </div>
   
