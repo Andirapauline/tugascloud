@@ -67,8 +67,10 @@
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-  <h3>Annyeonghaseyo Yeorobun</h3>
+    <h3>Annyeonghaseyo Yeorobun</h3> 
+  <br>
   <img src="WFH.jpg" class="img-rounded" alt="WFH" width="220" height="350">
+  </br>
   <h3>Andira Pauline</h3>
 </div>
   
@@ -110,7 +112,13 @@ dari materi yang saya tidak mengerti.</p>
 </style>
 
 <footer class="container-fluid bg-4 text-center">
-  <p>Sosial Media<a>Instagram Andira Pauline</a></p>
+  <p>Sosial Media</p>
+  <br>
+  Instagram & Twitter
+  <br>
+  Andirapauline
+  </br>
+  </br>
 </footer>
 </body>
 </html>
