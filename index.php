@@ -13,8 +13,8 @@
   <style>
   body {
   font: 14px "Montserrat", sans-serif;
-  line-height: 1.1;
-  color: #f5f6f7;
+  line-height: 1.3;
+  color: #000000;
 }
 
 p {font-size: 14px;}
