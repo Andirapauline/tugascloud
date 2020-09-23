@@ -108,7 +108,7 @@ dari materi yang saya tidak mengerti.</p>
   
   <style>
 .bg-4 {
-  background-color: #E6E6FA ;
+  background-color:  #B0C4DE ;
   color: #000000;
 }
 </style>
