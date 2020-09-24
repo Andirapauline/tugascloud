@@ -116,7 +116,7 @@ menonton drama korea dan biasanya dihalaman rumah saya berolahraga dengan adik-a
 Selama WFH juga saya dapat membantu adik-adik saya mengerjakan tugas dari sekolahnya dan mengajarkan materi pelajaran yang mereka tidak pahami.
 </br>
 <br>
-Kurang lebih sudah 9 bulan WFH, jujur saja tidak menariknya WFH mungkin bosan karena melakukan aktifitas yang monoton dirumah setiap hari, tidak bisa bertemu dan kumpul dengan teman-teman, apalagi saya belum sempat untuk
+Kurang lebih sudah 7 bulan WFH, jujur saja tidak menariknya WFH mungkin bosan karena melakukan aktifitas yang monoton dirumah setiap hari, tidak bisa bertemu dan kumpul dengan teman-teman, apalagi saya belum sempat untuk
 mengikuti organisasi dikampus. saya juga sudah rindu dengan teman-teman kelas, rindu lingkungan kampus juga. Saya berharap semester depan sudah bisa normal kembali.</br></p>
 </div>
   
@@ -155,7 +155,9 @@ mengikuti organisasi dikampus. saya juga sudah rindu dengan teman-teman kelas, r
       <p>Fasilitas yang salah satunya baik menurut saya yaitu RS UIN. karena kampus memiliki rumah sakit sendiri yang digunakan untuk warga kampus maupun masyarakat diluar kampus. Sepengalaman saya menggunakan
       fasilitas ini juga sangat mudah dan nyaman, bagi saya yang seorang mahasiswa untuk berobat ke RS UIN ini cukup menggunakan kartu mahasiswa dan menunjukan slip pembayaran semester terakhir, lalu saya mengatakan akan menemui dokter sesuai keluhan.
       Setelah itu hanya menunggu giliran masuk untuk diperiksa dokter dan sesudahnya hanya tinggal menunggu resep obat dari apoteknya.</p>
+      <br>
       <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
+      </br>
     </div>
   </div>
 </div>
