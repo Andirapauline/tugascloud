@@ -107,31 +107,35 @@ p {font-size: 14px;}
 pengalaman saya selama kuliah dari rumah atau Work from home (WFH) ada menarik dan tidaknya ya, kalau menurut saya menariknya karena bisa dirumah setelah kuliah bisa langsung beristirahat. selain itu wfh dirumah juga menyenangkan karena bisa mengerjakan pekerjaan rumah dan tugas kuliah sekaligus, dengan wfh ini membagi waktu menjadi sangat berarti dan berguna karena mengejakan
 beberapa tugas sekaligus, misalnya setelah kuliah selesai saya bisa mengerjakan tugas rumah terlebih dulu seperti beres-beres rumah, ya tugas anak perempuan pada umumnya.
 lalu tugas kuliah saya kerjakan biasanya tugas yang lebih dahulu mau dikumpulkan biasanya sih mengerjakan tugas malam hari bahkan bisa sampai larut malam untuk tugas yang waktunya dekat dengan waktu pengumpulan.
-
 mengerjakan tugas-tugas juga saya biasa berdiskusi dengan teman kelompok, karena sedang wfh jadi diskusi secara daring lewat zoom atau google meet.
+<br>
 liburan saya saat wfh juga cukup menyenangkan karena tidak bisa keluar rumah jadi biasanya sabtu-minggu saat libur kuliah saya gunakan untuk hobi saya, seperti mengerjakan projek tulisan cerita saya,
 menonton drama korea, dan biasanya dihalaman rumah saya berolahraga bareng adik-adik memainkan olahraga bulutangkis.
 selama wfh juga saya bisa membantu adik-adik saya mengerjakan tugas dari sekolahnya dan mengajarkan materi pelajaran yang mereka tidak pahami.
-
+</br>
+<br>
 kurang lebih sudah 9 bulan wfh jujur saja tidak menariknya wfh mungkin bosan karena mengerjakan aktifitas yang monoton dirumah, tidak bisa bertemu dan kumpul dengan teman-teman, apalagi saya belum sempat untuk
-mengikuti organisasi dikampus. saya juga sudah rindu teman-teman kelas, rindu lingkungan kampus juga. saya berharap semester depan sudah bisa normal kembali.
-</p>
+mengikuti organisasi dikampus. saya juga sudah rindu teman-teman kelas, rindu lingkungan kampus juga. saya berharap semester depan sudah bisa normal kembali.</br></p>
 </div>
   
  <div class="container-fluid bg-3 text-center">    
   <h3>Fasilitas UIN Syarif Hidayatullah Jakarta</h3><br>
   <div class="row">
     <div class="col-sm-4">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <img src="2d86fbfed0c240e7d9e3f91d7df5ace5.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <p>Fasilitas utama menurut saya fakultas, ini gambar fakultas sains dan teknologi. selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
+      mushollah, kantin, terdapat juga gazebo ditengah fakultas biasanya disebut saung. lobby fakultas juga dimanfaatkan mahasiswa untuk berkumpul, mengobrol sampai mengerjakan tugas</p>
+      <img src="OIP.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-4"> 
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <img src=" " class="img-responsive" style="width:100%" alt=" ">
+      <p>Fasilitas lain dari UIN Jakarta yaitu Perpustakaan. Perpustakaan UIN Jakarta sangat luas dan tersedia berbagai macam buku sampai kekumpulan skripsi mahasiswa, selain untuk tempat belajar dan mencari buku
+      biasanya perpustakaan bekerja sama dengan gramedia mengadakan bazar buku murah dan alat-alat tulis. suasana diperpustakaan sangat nyaman dan hening cocok sebagai tempat mengerjakan tugas</p>
+      <img src="perpustakaan.jpg" class="img-responsive" style="width:100%" alt=" ">
     </div>
     <div class="col-sm-4"> 
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <img src=" " class="img-responsive" style="width:100%" alt=" ">
+      <p>Fasilitas yang salah satunya baik menurut saya yaitu RS UIN. karena kampus memiliki rumah sakit sendiri digunakan untuk warga kampus maupun masyarakat diluar kampus. sepengelaman saya menggunakan
+      fasilitas ini juga mudah dan nyaman, bagi saya yang seorang mahasiswa untuk berobat ke RS UIN ini cukup menggunakan kartu mahasiswa dan menunjukan slip pembayaran semester, lalu saya mengatakan akan menemui dokter sesuai keluhan.
+      setelah itu hanya menunggu gilliran masuk untuk diperiksa dokter dan sesudahnya hanya tinggal menunggu resep obat dari apoteknya.</p>
+      <img src="rsuin.jpg" class="img-responsive" style="width:100%" alt=" ">
     </div>
   </div>
 </div>
