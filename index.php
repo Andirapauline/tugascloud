@@ -127,17 +127,23 @@ mengikuti organisasi dikampus. saya juga sudah rindu teman-teman kelas, rindu li
       <p>Fasilitas utama menurut saya fakultas, ini gambar fakultas sains dan teknologi. selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
       mushollah, kantin, terdapat juga gazebo ditengah fakultas biasanya disebut saung. lobby fakultas juga dimanfaatkan mahasiswa untuk berkumpul, mengobrol sampai mengerjakan tugas</p>
       <br>
+      <br>
+      <br>
       <img src="OIP.jpg" class="img-rounded" alt="WFH" width="220" height="400" alt="OIP">
       </br>
+    </br>
+   </br>
     </div>
     <div class="col-sm-4"> 
       <p>Fasilitas lain dari UIN Jakarta yaitu Perpustakaan. Perpustakaan UIN Jakarta sangat luas dan tersedia berbagai macam buku sampai kekumpulan skripsi mahasiswa, selain untuk tempat belajar dan mencari buku
       biasanya perpustakaan bekerja sama dengan gramedia mengadakan bazar buku murah dan alat-alat tulis. suasana diperpustakaan sangat nyaman dan hening cocok sebagai tempat mengerjakan tugas</p>
      <br>
       <br>
+      <br> 
       <img src="perpustakaan.jpg" class="img-rounded" alt="WFH" width="220" height="400" alt="perpustakaan">
       </br> 
     </br>
+</br> 
     </div>
     <div class="col-sm-4"> 
       <p>Fasilitas yang salah satunya baik menurut saya yaitu RS UIN. karena kampus memiliki rumah sakit sendiri digunakan untuk warga kampus maupun masyarakat diluar kampus. sepengelaman saya menggunakan
