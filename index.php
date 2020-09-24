@@ -90,7 +90,7 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-    <h3>Annyeonghaseyo Yeorobun</h3> 
+    <h3>Halo Semua</h3> 
   <br>
   <img src="WFH.jpg" class="img-rounded" alt="WFH" width="220" height="350">
   </br>
@@ -105,10 +105,14 @@ p {font-size: 14px;}
     </br>
 <p><br>Assalamualaikum Warahmatullahi Wabarakatuh</br>
 <br>
+Saya Andira Pauline panggil saja Andira atau Dira, lahir di Tangerang bulan Januari tahun 2000. Saya tinggal di Teluknaga, Kabupaten Tangerang. Saya anak pertama dari 3 bersaudara dan sedang
+menempuh pendidikan di UIN Syarif Hidayatullah Jakarta.
+<br>
 Pengalaman saya selama kuliah dari rumah atau Work from home (WFH) tentu ada menarik dan tidaknya, kalau menurut saya menariknya WFH ini karena bisa tetap dirumah bahkan setelah kuliah selesai bisa langsung beristirahat. Selain itu WFH juga menyenangkan karena bisa mengerjakan pekerjaan rumah dan tugas kuliah sekaligus, dengan WFH ini saya belajar untuk membagi waktu dan waktu sangat berguna karena mengerjakan
 beberapa tugas sekaligus, misalnya setelah kuliah selesai saya bisa mengerjakan pekerjaan rumah terlebih dulu seperti beres-beres rumah dan lainnya seperti tugas anak perempuan pada umumnya.
 Lalu tugas kuliah saya kerjakan biasanya tugas yang lebih dahulu mau dikumpulkan, biasanya sih saya mengerjakan tugas waktu malam hari bahkan bisa sampai larut malam untuk tugas yang waktunya dekat dengan waktu pengumpulan.
 Mengerjakan tugas-tugas juga saya biasa berdiskusi dengan teman kelompok, karena sedang WFH jadi diskusi dilakukan secara daring lewat zoom atau google meet.
+</br>
 </br>
 <br>
 Liburan saya saat WFH juga cukup menyenangkan karena tidak bisa keluar rumah jadi biasanya sabtu-minggu saat libur kuliah saya gunakan untuk hobi saya, seperti mengerjakan projek tulisan cerita,
