@@ -103,14 +103,19 @@ p {font-size: 14px;}
     <br>
   <h3>Suasana Work From Home</h3>
     </br>
-  <p>Assalamualaikum warahmatullahi wabarakatuh
-ini tulisan saya mengenai suasana work from home saya dirumah. WFH dimulai sejak awal masuk disemester 4, tepat 2 minggu
-setelah kuliah tatap muka dilakukan. seperti yang kita ketahui juga kita melakukan WFH ini karena Indonesia tengah dilanda
-pandemi Covid-19. jujur awal WFH saya kaget mungkin karena belum terbiasa, mulai dari mempersiapkan aplikasi apa aja yang digunakan untuk WFH
-dan kuota internet yang ekstra. sejak WFH pun mengerjakan tugas ataupun diskusi sama teman jadi tidak bisa leluasa, dan selama 
-WFH jujur saja materi yang disampaikan kurang bisa dicerna otak karena dirumah pasti pikiran akan terbagi antara pekerjaan 
-rumah dan kuliah. tetapi saya bersyukur dikelilingi teman-teman yang baik, yang mau membantu sampai mengajari ulang bagian 
-dari materi yang saya tidak mengerti.</p>
+  <p>AAssalamualaikum warahmatullahi wabarakatuh
+pengalaman saya selama kuliah dari rumah atau Work from home (WFH) ada menarik dan tidaknya ya, kalau menurut saya menariknya karena bisa dirumah setelah kuliah bisa langsung beristirahat. selain itu wfh dirumah juga menyenangkan karena bisa mengerjakan pekerjaan rumah dan tugas kuliah sekaligus, dengan wfh ini membagi waktu menjadi sangat berarti dan berguna karena mengejakan
+beberapa tugas sekaligus, misalnya setelah kuliah selesai saya bisa mengerjakan tugas rumah terlebih dulu seperti beres-beres rumah, ya tugas anak perempuan pada umumnya.
+lalu tugas kuliah saya kerjakan biasanya tugas yang lebih dahulu mau dikumpulkan biasanya sih mengerjakan tugas malam hari bahkan bisa sampai larut malam untuk tugas yang waktunya dekat dengan waktu pengumpulan.
+
+mengerjakan tugas-tugas juga saya biasa berdiskusi dengan teman kelompok, karena sedang wfh jadi diskusi secara daring lewat zoom atau google meet.
+liburan saya saat wfh juga cukup menyenangkan karena tidak bisa keluar rumah jadi biasanya sabtu-minggu saat libur kuliah saya gunakan untuk hobi saya, seperti mengerjakan projek tulisan cerita saya,
+menonton drama korea, dan biasanya dihalaman rumah saya berolahraga bareng adik-adik memainkan olahraga bulutangkis.
+selama wfh juga saya bisa membantu adik-adik saya mengerjakan tugas dari sekolahnya dan mengajarkan materi pelajaran yang mereka tidak pahami.
+
+kurang lebih sudah 9 bulan wfh jujur saja tidak menariknya wfh mungkin bosan karena mengerjakan aktifitas yang monoton dirumah, tidak bisa bertemu dan kumpul dengan teman-teman, apalagi saya belum sempat untuk
+mengikuti organisasi dikampus. saya juga sudah rindu teman-teman kelas, rindu lingkungan kampus juga. saya berharap semester depan sudah bisa normal kembali.
+</p>
 </div>
   
  <div class="container-fluid bg-3 text-center">    
