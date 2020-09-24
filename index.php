@@ -130,10 +130,12 @@ mengikuti organisasi dikampus. saya juga sudah rindu teman-teman kelas, rindu li
       <br>
       <br>
       <br>
+      <br>
       <img src="OIP.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="OIP">
       </br>
     </br>
    </br>
+</br>
 </br>
     </div>
     <div class="col-sm-4"> 
