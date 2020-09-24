@@ -129,10 +129,12 @@ mengikuti organisasi dikampus. saya juga sudah rindu teman-teman kelas, rindu li
       <br>
       <br>
       <br>
-      <img src="OIP.jpg" class="img-rounded" alt="WFH" width="220" height="400" alt="OIP">
+      <br>
+      <img src="OIP.jpg" class="img-rounded" alt="WFH" width="200" height="500" alt="OIP">
       </br>
     </br>
    </br>
+</br>
     </div>
     <div class="col-sm-4"> 
       <p>Fasilitas lain dari UIN Jakarta yaitu Perpustakaan. Perpustakaan UIN Jakarta sangat luas dan tersedia berbagai macam buku sampai kekumpulan skripsi mahasiswa, selain untuk tempat belajar dan mencari buku
@@ -140,16 +142,18 @@ mengikuti organisasi dikampus. saya juga sudah rindu teman-teman kelas, rindu li
      <br>
       <br>
       <br> 
-      <img src="perpustakaan.jpg" class="img-rounded" alt="WFH" width="220" height="400" alt="perpustakaan">
+      <br>
+      <img src="perpustakaan.jpg" class="img-rounded" alt="WFH" width="200" height="500" alt="perpustakaan">
       </br> 
     </br>
 </br> 
+</br>
     </div>
     <div class="col-sm-4"> 
       <p>Fasilitas yang salah satunya baik menurut saya yaitu RS UIN. karena kampus memiliki rumah sakit sendiri digunakan untuk warga kampus maupun masyarakat diluar kampus. sepengelaman saya menggunakan
       fasilitas ini juga mudah dan nyaman, bagi saya yang seorang mahasiswa untuk berobat ke RS UIN ini cukup menggunakan kartu mahasiswa dan menunjukan slip pembayaran semester, lalu saya mengatakan akan menemui dokter sesuai keluhan.
       setelah itu hanya menunggu gilliran masuk untuk diperiksa dokter dan sesudahnya hanya tinggal menunggu resep obat dari apoteknya.</p>
-      <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="220" height="400" alt="rsuin">
+      <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="200" height="500" alt="rsuin">
     </div>
   </div>
 </div>
