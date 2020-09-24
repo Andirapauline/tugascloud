@@ -101,7 +101,7 @@ p {font-size: 14px;}
   
   <div class="container-fluid bg-2 text-center">
     <br>
-  <h3>Suasana Work From Home</h3>
+  <h3>--Suasana Work From Home--</h3>
     </br>
 <p><br>Assalamualaikum Warahmatullahi Wabarakatuh</br>
 <br>
@@ -125,7 +125,7 @@ mengikuti organisasi dikampus. saya juga sudah rindu dengan teman-teman kelas, r
 </div>
   
  <div class="container-fluid bg-3 text-center">    
-  <h3>Fasilitas UIN Syarif Hidayatullah Jakarta</h3><br>
+  <h3>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h3><br>
   <div class="row">
     <div class="col-sm-4">
       <p>Fasilitas utama menurut saya yaitu fakultas, ini gambar fakultas sains dan teknologi. Selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
